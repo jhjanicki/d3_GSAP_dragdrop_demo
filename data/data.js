@@ -10,7 +10,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Premade food",
+                    "category":"premade food",
                     "selected":""
                 },
                 {
@@ -24,12 +24,12 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Freshed cooked",
+                    "category":"freshed cooked",
                     "selected":""
                 },
                 {
                     "id": 3,
-                    "name": "tea_eggs",
+                    "name": "tranditional_snack",
                     "positioZone1": 2,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -38,12 +38,12 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Freshed cooked",
+                    "category":"snacks",
                     "selected":""
                 },
                 {
                     "id": 4,
-                    "name": "buns",
+                    "name": "pudding",
                     "positioZone1": 3,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -52,12 +52,12 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Freshed cooked",
+                    "category":"cold treats",
                     "selected":""
                 },
                 {
                     "id": 5,
-                    "name": "yams",
+                    "name": "chips",
                     "positioZone1": 4,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -66,7 +66,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Freshed cooked",
+                    "category":"snacks",
                     "selected":""
                 },
                 {
@@ -80,7 +80,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Baked goods",
+                    "category":"baked goods",
                     "selected":""
                 },
                 {
@@ -94,13 +94,13 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Baked goods",
+                    "category":"baked goods",
                     "selected":""
                 },
                 {
-                    "id": 7,
+                    "id": 8,
                     "name": "ramen",
-                    "positioZone1": 6,
+                    "positioZone1": 7,
                     "positioZone2": "",
                     "indexZone2":"",
                     "x": "",
@@ -108,7 +108,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"Snacks",
+                    "category":"snacks",
                     "selected":""
                 }
             ]
