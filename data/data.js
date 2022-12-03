@@ -15,7 +15,7 @@ const foodData = [
                 },
                 {
                     "id": 2,
-                    "name": "oden",
+                    "name": "ice_cream",
                     "positioZone1": 1,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -24,7 +24,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"freshed cooked",
+                    "category":"cold treats",
                     "selected":""
                 },
                 {
@@ -71,7 +71,7 @@ const foodData = [
                 },
                 {
                     "id": 6,
-                    "name": "bread",
+                    "name": "jelly",
                     "positioZone1": 5,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -80,12 +80,12 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"baked goods",
+                    "category":"cold treats",
                     "selected":""
                 },
                 {
                     "id": 7,
-                    "name": "dorayaki",
+                    "name": "cookies",
                     "positioZone1": 6,
                     "positioZone2": "",
                     "indexZone2":"",
@@ -94,7 +94,7 @@ const foodData = [
                     "width": "",
                     "height": "",
                     "zone": 1,
-                    "category":"baked goods",
+                    "category":"snacks",
                     "selected":""
                 },
                 {

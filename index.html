@@ -278,6 +278,8 @@
             //     .attr("height", imgWidth - imgPadding * 2)
             //     .attr("xlink:href", d => `./img/food/${d.name}.png`)
 
+
+
             imgG.selectAll("image.foodItem")
                 .data(foodData)
                 .join("svg:image")
@@ -288,6 +290,8 @@
                 .attr("width", imgWidth - imgPadding * 2)
                 .attr("height", imgWidth - imgPadding * 2)
                 .attr("xlink:href", d => `./img/food/${d.name}.png`)
+
+
 
 
             foodData.forEach(d => {
